@@ -1,1 +1,2 @@
 # solid-spoon
+Kontak gede
