@@ -1,3 +1,3 @@
 FROM bitnami/rclone:latest
 EXPOSE 80
-CMD ["bash", "start.sh"]
+CMD ["bash","start.sh"]
